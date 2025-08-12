@@ -1,0 +1,42 @@
+Class 2 — Dataset Overview
+
+1. Electric Vehicle Charging Dataset
+Link:  https://www.kaggle.com/datasets/michaelbryantds/electric-vehicle-charging-dataset/data
+
+Real-time load measurements for one year, with hourly granularity, from six stations (EVCS1 to EVCS6) in an urban center in China.
+
+Best use: Analyzing temporal demand patterns — daily usage, peak hours, seasonality — and load forecasting.
+
+
+2. EV Charging Load Dataset and Optimal Routing
+Link: https://www.kaggle.com/datasets/datasetengineer/ev-charging-load-dataset-and-optimal-routing
+
+Synthetic data generated based on temporal distribution of a parking lot at Caltech — contains over 29,600 days of records, including connection times, charging duration, and energy delivered (generated via CTGAN + KDE).
+
+Best use: Training machine learning algorithms like reinforcement learning, simulating different behavior patterns, and testing data scalability.
+
+
+3. Global EV Charging Stations Dataset
+Link: https://www.kaggle.com/datasets/vivekattri/global-ev-charging-stations-dataset
+
+52 MB dataset including connection time, duration, energy consumed, and date of record; published in October/November 2024.
+
+Best use: Exploratory analysis and simple benchmarking of charging behavior using real-world data.
+
+
+4. Residential EV Charging Data
+Link: https://www.kaggle.com/datasets/anshtanwar/residential-ev-chargingfrom-apartment-buildings
+
+Over 1,320 samples of charging sessions, including energy consumption, user behavior, vehicle details, temperature, charger type, etc.
+
+Best use: User behavior studies, environmental impact analysis, multivariate analysis, and predictive modeling.
+
+
+5. Summary of Dataset (Electric Vehicle Charging Dataset on Kaggle)
+Link: https://www.researchgate.net/figure/Summary-of-data-set-Electric-Vehicle-Charging-Dataset-Kaggle_tbl1_367800757
+
+Integrates data from charging stations (OpenChargeMap), road networks (OpenStreetMap), traffic data (HERE, OpenTraffic), and vehicle specifications (EPA) to suggest optimal routes and charging points based on time, cost, and battery level.
+
+Best use: Practical applications in route planning, operations research, and path optimization with charging constraints.
+
+
